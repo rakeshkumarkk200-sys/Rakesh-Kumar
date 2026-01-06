@@ -1,5 +1,9 @@
+
+👋 Hi there, I'm Rakesh Kumar!
+
+
 # rakeshkumarkk200-sys
-Python Developer | Aspiring Machine Learning Engineer Building projects with Python while developing a strong foundation in Machine Learning. Interested in AI, automation, and data-driven problem solving. Continuously learning and working towards real-world ML applications.
+Python Developer | Aspiring Machine Learning Engineer Building projects with Python while developing a strong foundation in Machine Learning. Interested in AI, automation, and data-driven problem solving. Continuously learning and working towards real-world ML applications
 
 
 ## 🌐 Socials:
@@ -11,6 +15,16 @@ Python Developer | Aspiring Machine Learning Engineer Building projects with Pyt
 ![](https://github-readme-stats.vercel.app/api?username=rakeshkumarkk200-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rakeshkumarkk200-sys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkumarkk200-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+🌱 Currently learning & growing in:
+
+Machine Learning
+
+Data Structures & Algorithms (DSA)
+
+Artificial Intelligence
+
+Continuously learning and working towards real-world ML applications.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakeshkumarkk200-sys&theme=radical&no-frame=false&no-bg=false&margin-w=4)
