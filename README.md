@@ -24,6 +24,8 @@ Data Structures & Algorithms (DSA)
 
 Artificial Intelligence
 
+data analytics 
+
 Continuously learning and working towards real-world ML applications.
 
 ## 🏆 GitHub Trophies
